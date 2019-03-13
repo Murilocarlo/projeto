@@ -1,0 +1,30 @@
+body{
+  background-image:url(fundonovo2.png);
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+ padding: 0%;
+ margin: 0%;
+ overflow-y: hidden;
+font-family:Arial, Helvetica, sans-serif;
+
+ }
+ 
+ input{
+-webkit-border-radius: 10px;
+-moz-border-radius: 5px;
+border-radius: 0px;
+font-family:Arial, Helvetica, sans-serif;
+}
+ 
+.enviar input {
+background-color: #069;
+height: 40px;
+width: 150px;
+font-weight: bold;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border: 1px solid;
+color: #FFF;
+cursor: pointer;
+}
